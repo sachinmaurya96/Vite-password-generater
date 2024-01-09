@@ -1,6 +1,7 @@
 # React Password Generator
 ![Demo](https://i.postimg.cc/sX2CjWYM/Screenshot-2024-01-08-095348.png)
 
+[Demo](https://vite-password-generater.vercel.app/)
 
 A simple password generator project built with Vite, React, and Tailwind CSS. This project is designed to help understand and practice the basics of React, including the usage of hooks such as useState, useEffect, useCallback, and useRef.
 
